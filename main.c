@@ -2,7 +2,7 @@
 #define TAM 100
 
 int main(){
-  int a[TAM][TAM], b[TAM][TAM], c[TAM][TAM];
+  int a[TAM][TAM], b[TAM][TAM], r[TAM][TAM];
   int m, n, p, q;
   int i, j;
 
